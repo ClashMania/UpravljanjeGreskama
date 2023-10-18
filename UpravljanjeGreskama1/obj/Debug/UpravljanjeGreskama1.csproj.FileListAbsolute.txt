@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskama1\bin\Debug\UpravljanjeGreskama1.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskama1\bin\Debug\UpravljanjeGreskama1.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskama1\bin\Debug\UpravljanjeGreskama1.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskama1\obj\Debug\UpravljanjeGreskama1.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskama1\obj\Debug\UpravljanjeGreskama1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskama1\obj\Debug\UpravljanjeGreskama1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskama1\obj\Debug\UpravljanjeGreskama1.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskama1\obj\Debug\UpravljanjeGreskama1.pdb
